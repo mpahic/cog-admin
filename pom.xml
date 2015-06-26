@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.cloudcog.gears</groupId>
-	<artifactId>cog-admin</artifactId>
+	<artifactId>gear-admin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -25,15 +25,15 @@
 	</developers>
 
 	<scm>
-		<url>git://github.com/mpahic/kani.git</url>
-		<connection>scm:git:git://github.com/mpahic/kani.git</connection>
+		<url>git://github.com/mpahic/gear-admin.git</url>
+		<connection>scm:git:git://github.com/mpahic/gear-admin.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:/mpahic/${ComponentClassName}.git</developerConnection>
-		<tag>KaniComponent add-on for Vaadin</tag>
+		<tag>Admin module for Gears project</tag>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/mpahic/kani/issues</url>
+		<url>https://github.com/mpahic/gear-admin.git/issues</url>
 	</issueManagement>
 
 	<dependencies>
